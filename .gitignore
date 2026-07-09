@@ -1,0 +1,19 @@
+# Operating-system and editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Microsoft Office lock and temporary files
+~$*
+*.tmp
+
+# Python (relevant only if analysis code is added later)
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+.env

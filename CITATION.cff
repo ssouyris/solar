@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the accompanying manuscript."
+title: "Supplementary data for: Diffusion of Residential Solar Power Systems: A Dynamic Discrete Choice Approach"
+abstract: "Appendix A supplementary data: a survey of 221 U.S. federal and state household-technology incentive programs, each coded against the four structural features of a forward-looking dynamic discrete choice model of residential solar adoption."
+type: dataset
+version: "1.0.0"
+date-released: 2026-07-09
+url: "https://github.com/ssouyris/solar"
+repository-code: "https://github.com/ssouyris/solar"
+license: CC-BY-4.0
+authors:
+  - given-names: Sebastian
+    family-names: Souyris
+keywords:
+  - residential solar
+  - technology adoption
+  - dynamic discrete choice
+  - incentive policy
+  - operations management
+preferred-citation:
+  type: article
+  title: "Diffusion of Residential Solar Power Systems: A Dynamic Discrete Choice Approach"
+  year: 2026
+  notes: "Manuscript under review (2026). Update with the journal, volume, and DOI upon acceptance."
+  authors:
+    - given-names: Sebastian
+      family-names: Souyris
