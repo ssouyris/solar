@@ -1,6 +1,6 @@
 # Diffusion of Residential Solar Power Systems: Supplementary Data
 
-This repository hosts supplementary data for the manuscript "Diffusion of Residential Solar Power Systems: A Dynamic Discrete Choice Approach" (Souyris). The paper develops and estimates a forward-looking dynamic discrete choice model of residential rooftop-solar adoption.
+This repository hosts supplementary data for the manuscript "Diffusion of Residential Solar Power Systems: A Dynamic Discrete Choice Approach" (Souyris, Duan, Balakrishnan, and Rai). The paper develops and estimates a forward-looking dynamic discrete choice model of residential rooftop-solar adoption.
 
 This release contains data only. It currently provides the Appendix A supplementary material.
 
@@ -13,7 +13,7 @@ solar/
 ├── CITATION.cff         # machine-readable citation metadata
 └── data/
     └── appendix_A_household_incentive_survey/
-        ├── Household_Incentive_Survey.docx         # narrative appendix
+        ├── Household_Incentive_Survey.pdf          # narrative appendix
         ├── Household_Incentive_Survey_Matrix.xlsx  # machine-readable program matrix
         └── README.md                               # data dictionary and provenance
 ```
@@ -32,8 +32,8 @@ This release does not include source code. If analysis or replication code is ad
 
 Please cite the accompanying manuscript. Machine-readable metadata is in `CITATION.cff`.
 
-Souyris S (2026) Diffusion of residential solar power systems: A dynamic discrete choice approach. Manuscript under review.
+Souyris S, Duan J, Balakrishnan A, Rai V (2026) Diffusion of residential solar power systems: A dynamic discrete choice approach. Manuscript under review.
 
 ## Contact
 
-Sebastian Souyris. Questions about the data may be directed to the corresponding author.
+Questions about the data may be directed to the corresponding author (Sebastian Souyris, souyrs@rpi.edu).

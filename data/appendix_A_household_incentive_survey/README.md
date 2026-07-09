@@ -6,7 +6,7 @@ The material documents the U.S. federal and state incentive programs that suppor
 
 ## Files
 
-`Household_Incentive_Survey.docx` is the narrative appendix. It states the scope and method, defines the four-feature coding scheme, summarizes the federal layer after Public Law 119-21, describes the state layer, and reports the generalizability pattern across technologies. It contains two tables: principal federal incentives (Table 1) and feature coding by technology category (Table 2).
+`Household_Incentive_Survey.pdf` is the narrative appendix. It states the scope and method, defines the four-feature coding scheme, summarizes the federal layer after Public Law 119-21, describes the state layer, and reports the generalizability pattern across technologies. It contains two tables: principal federal incentives (Table 1) and feature coding by technology category (Table 2).
 
 `Household_Incentive_Survey_Matrix.xlsx` is the machine-readable matrix with three sheets:
 
