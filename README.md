@@ -1,6 +1,6 @@
-# Diffusion of Residential Solar Power Systems: Supplementary Data
+# Accelerating the Adoption of Residential Solar Power Systems: Supplementary Data
 
-This repository hosts supplementary data for the manuscript "Diffusion of Residential Solar Power Systems: A Dynamic Discrete Choice Approach" (Souyris, Duan, Balakrishnan, and Rai). The paper develops and estimates a forward-looking dynamic discrete choice model of residential rooftop-solar adoption.
+This repository hosts supplementary data for the manuscript "Accelerating the Adoption of Residential Solar Power Systems: Policy Analysis using a Dynamic Structural Model" (Souyris, Duan, Balakrishnan, and Rai). The paper develops and estimates a forward-looking dynamic structural model of residential rooftop-solar adoption and uses it for policy analysis.
 
 This release contains data only. It currently provides the Appendix A supplementary material.
 
@@ -32,7 +32,7 @@ This release does not include source code. If analysis or replication code is ad
 
 Please cite the accompanying manuscript. Machine-readable metadata is in `CITATION.cff`.
 
-Souyris S, Duan J, Balakrishnan A, Rai V (2026) Diffusion of residential solar power systems: A dynamic discrete choice approach. Manuscript under review.
+Souyris S, Duan J, Balakrishnan A, Rai V (2026) Accelerating the adoption of residential solar power systems: Policy analysis using a dynamic structural model. Manuscript under review.
 
 ## Contact
 

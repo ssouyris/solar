@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use these data, please cite the accompanying manuscript."
-title: "Supplementary data for: Diffusion of Residential Solar Power Systems: A Dynamic Discrete Choice Approach"
-abstract: "Appendix A supplementary data: a survey of 221 U.S. federal and state household-technology incentive programs, each coded against the four structural features of a forward-looking dynamic discrete choice model of residential solar adoption."
+title: "Supplementary data for: Accelerating the Adoption of Residential Solar Power Systems: Policy Analysis using a Dynamic Structural Model"
+abstract: "Appendix A supplementary data: a survey of 221 U.S. federal and state household-technology incentive programs, each coded against the four structural features of a forward-looking dynamic structural model of residential solar adoption."
 type: dataset
 version: "1.0.0"
 date-released: 2026-07-09
@@ -19,7 +19,7 @@ keywords:
   - operations management
 preferred-citation:
   type: article
-  title: "Diffusion of Residential Solar Power Systems: A Dynamic Discrete Choice Approach"
+  title: "Accelerating the Adoption of Residential Solar Power Systems: Policy Analysis using a Dynamic Structural Model"
   year: 2026
   notes: "Manuscript under review (2026). Update with the journal, volume, and DOI upon acceptance."
   authors:
