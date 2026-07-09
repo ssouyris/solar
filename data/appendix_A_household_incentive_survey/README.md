@@ -1,6 +1,6 @@
 # Appendix A: Survey of Federal and State Household-Technology Incentives
 
-This folder holds the Appendix A supplementary data for the accompanying manuscript. See the repository-root `README.md` for the full paper citation and `CITATION.cff` for machine-readable citation metadata.
+This folder holds the Appendix A supplementary data for the accompanying manuscript. See the repository-root `README.md` for the full paper citation and `CITATION.cff` for citation metadata.
 
 The material documents the U.S. federal and state incentive programs that support household adoption of durable technologies and codes each program against the four structural features of the forward-looking durable-goods adoption model estimated in the paper.
 
@@ -8,7 +8,7 @@ The material documents the U.S. federal and state incentive programs that suppor
 
 `Household_Incentive_Survey.pdf` is the narrative appendix. It states the scope and method, defines the four-feature coding scheme, summarizes the federal layer after Public Law 119-21, describes the state layer, and reports the generalizability pattern across technologies. It contains two tables: principal federal incentives (Table 1) and feature coding by technology category (Table 2).
 
-`Household_Incentive_Survey_Matrix.xlsx` is the machine-readable matrix with three sheets:
+`Household_Incentive_Survey_Matrix.xlsx` is the spreadsheet, with three sheets:
 
 - `Read me`: the coding scheme and coverage notes.
 - `All programs`: the full program-level matrix, one program per row.

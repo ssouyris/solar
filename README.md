@@ -10,11 +10,11 @@ This release contains data only. It currently provides the Appendix A supplement
 solar/
 ├── README.md            # this file
 ├── LICENSE              # CC-BY-4.0; governs the data in this repository
-├── CITATION.cff         # machine-readable citation metadata
+├── CITATION.cff         # citation metadata (CFF format)
 └── data/
     └── appendix_A_household_incentive_survey/
         ├── Household_Incentive_Survey.pdf          # narrative appendix
-        ├── Household_Incentive_Survey_Matrix.xlsx  # machine-readable program matrix
+        ├── Household_Incentive_Survey_Matrix.xlsx  # program matrix, one row per program
         └── README.md                               # data dictionary and provenance
 ```
 
@@ -30,7 +30,7 @@ This release does not include source code. If analysis or replication code is ad
 
 ## How to cite
 
-Please cite the accompanying manuscript. Machine-readable metadata is in `CITATION.cff`.
+Please cite the accompanying manuscript. Citation metadata is in `CITATION.cff`, which GitHub and reference managers read automatically.
 
 Souyris S, Duan J, Balakrishnan A, Rai V (2026) Accelerating the adoption of residential solar power systems: Policy analysis using a dynamic structural model. Manuscript under review.
 
